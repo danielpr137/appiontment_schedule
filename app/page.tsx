@@ -11,7 +11,7 @@ export default function Home() {
           {/* TODO: OTP verification */}
 
           <Image
-            src="/assets/icons/logo-full.svg"
+            src="/assets/icons/appointMe_full_logo.png"
             height={1000}
             width={1000}
             alt="patient"
@@ -32,7 +32,7 @@ export default function Home() {
       </section>
 
       <Image
-        src="/assets/images/onboarding-img.png"
+        src="/assets/images/welcome.png"
         height={1000}
         width={1000}
         alt="patient"
